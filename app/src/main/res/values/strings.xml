@@ -1,0 +1,5 @@
+<resources>
+    <string name="api_key">b64d761def5c00e40e6a36e0032741bf</string>
+    <string name="app_name">Submission7</string>
+    <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+</resources>
